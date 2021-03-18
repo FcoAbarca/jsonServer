@@ -1,5 +1,16 @@
 {
-  "clientes": [],
+  "clientes": [{"id": "1",
+     "nombre":"Juan Perez",
+     "correo":"correo@correo.com",
+     "empresa":"Empresa 1"},
+    {"id": "2",
+     "nombre":"Juan Robles",
+     "correo":"correo@correo.com",
+     "empresa":"Empresa 2"},
+    {"id": "3",
+     "nombre":"Juan Lopez",
+     "correo":"correo@correo.com",
+     "empresa":"Empresa 3"}],
   "profile": {
     "name": "fcoAbarca"
   }
