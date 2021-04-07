@@ -2,13 +2,16 @@
   "clientes": [{"id": "1",
      "nombre": "Juan Perez",
      "correo": "correo@correo.com",
-     "empresa": "Empresa 1"},
+     "empresa": "Empresa 1",
+     "telefono": "2222-3265"},
      {"id": "2",
      "nombre": "Juan Perez2",
      "correo": "correo@correo.com",
-     "empresa": "Empresa 2"},
+     "empresa": "Empresa 2",
+     "telefono": "2222-7852"},
      {"id": "3",
      "nombre": "Juan Perez3",
      "correo": "correo@correo.com",
-     "empresa": "Empresa 3"}]
+     "empresa": "Empresa 3",
+     "telefono": "2222-7891"}]
 }
